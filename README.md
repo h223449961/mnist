@@ -1,0 +1,2 @@
+# mnist
+pip install torchvision
